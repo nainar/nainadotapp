@@ -13,14 +13,27 @@
         font-style: sans-serif;
         src: url('https://fonts.googleapis.com/css?family=Bai+Jamjuree');
     }
+    body {
+      font-family: 'Bai Jamjuree', sans-serif;
+    }
     h1 {
         color:red;
         position: fixed;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        font-family: 'Bai Jamjuree', sans-serif;
         text-align: center;
+    }
+    footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #a77be48a;
+      text-align: center;
+    }
+    #footerText {
+      padding: 1vh 0 1vh 0;
     }
   </style>
   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
@@ -43,5 +56,8 @@
     }
     </script>
   </amp-analytics>
+  <footer role="contentinfo">
+    <div id="footerText">Source code in the <a href="https://github.com/nainar/nainadotapp/">repository</a> on GitHub</div>
+  </footer>
 </body>
 </html>
