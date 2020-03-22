@@ -448,7 +448,8 @@ var Layout = function Layout(props) {
     __self: this
   }, "Naina Raisinghani"), __jsx("link", {
     rel: "shortcut icon",
-    href: "../favicon.png",
+    type: "image/x-icon",
+    href: "/favicon.png",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12

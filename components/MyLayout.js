@@ -9,7 +9,7 @@ const Layout = props => (
   <div>
     <Head>
       <title>Naina Raisinghani</title>
-      <link rel="shortcut icon" href="../favicon.png" />
+      <link rel="shortcut icon" type="image/x-icon" href="/favicon.png" />
     </Head>
     {/* <Header /> */}
     {props.children}

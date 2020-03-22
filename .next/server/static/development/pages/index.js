@@ -536,7 +536,8 @@ const Layout = props => __jsx("div", {
   __self: undefined
 }, "Naina Raisinghani"), __jsx("link", {
   rel: "shortcut icon",
-  href: "../favicon.png",
+  type: "image/x-icon",
+  href: "/favicon.png",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 12
