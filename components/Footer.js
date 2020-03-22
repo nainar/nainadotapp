@@ -4,14 +4,15 @@ export const config = { amp: 'true' };
 const svgStyle= {
     'enableBackground': 'new 0 0 493.497 493.497',
     display: 'inline-block', 
-    width: '1em',
-    height: '1em',
+    width: '1.5em',
+    height: '1.5em',
 }
 
 const svgEmailStyle= {
     display: 'inline-block', 
-    width: '1em',
-    height: '1em',
+    width: '1.5em',
+    height: '1.5em',
+    padding: '0px 0px 0px 5px'
 }
 
 const fillStyle = {fill:'#000000'}
@@ -27,7 +28,7 @@ const Footer = () => (
         footer {
             font-family: 'Bai Jamjuree', sans-serif;
             position: fixed;
-            height: 2em;
+            height: 3em;
             left: 0;
             bottom: 0;
             width: 100%;
@@ -62,7 +63,7 @@ const Footer = () => (
       </svg></a>
     <a href="mailto:me@naina.app" target="_blank" rel="noopener" aria-label="Email me!">
       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-        viewBox="0 0 493.497 493.497" style={svgEmailStyle} >
+        viewBox="0 0 493.497 493.497" style={svgEmailStyle}>
       <path d="M444.556,85.218H48.942C21.954,85.218,0,107.171,0,134.16v225.177c0,26.988,21.954,48.942,48.942,48.942h395.613
         c26.988,0,48.941-21.954,48.941-48.942V134.16C493.497,107.171,471.544,85.218,444.556,85.218z M460.87,134.16v225.177
         c0,2.574-0.725,4.924-1.793,7.09L343.74,251.081l117.097-117.097C460.837,134.049,460.87,134.096,460.87,134.16z M32.628,359.336
