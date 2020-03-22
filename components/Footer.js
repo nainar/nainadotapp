@@ -1,4 +1,5 @@
 import Link from 'next/link';
+export const config = { amp: 'true' };
 
 const svgStyle= {
     'enableBackground': 'new 0 0 493.497 493.497',
