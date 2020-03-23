@@ -467,13 +467,23 @@ var Layout = function Layout(props) {
       lineNumber: 13
     },
     __self: this
+  }), __jsx("script", {
+    async: true,
+    key: "amp-analytics",
+    "custom-element": "amp-analytics",
+    src: "https://cdn.ampproject.org/v0/amp-analytics-0.1.js",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
   })), props.children, __jsx("amp-analytics", {
     type: "googleanalytics",
     id: "analytics1",
     "data-credentials": "include",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 19
     },
     __self: this
   }, __jsx("script", {
@@ -493,13 +503,13 @@ var Layout = function Layout(props) {
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 20
     },
     __self: this
   })), __jsx(_Footer__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 37
     },
     __self: this
   }));

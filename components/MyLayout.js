@@ -11,6 +11,8 @@ const Layout = props => (
     <Head>
       <title>Naina Raisinghani</title>
       <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💩</text></svg>" />
+      <script async key="amp-analytics" custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"
+        />
     </Head>
     {/* <Header /> */}
     {props.children}
