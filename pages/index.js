@@ -37,6 +37,7 @@ const PostLink = ({ post }) => (
   );
 
 export default function Blog() {
+  const isAmp = useAmp()
   return (
     <Layout>
       <h1>⚠️🚧👷🏽‍♀️UNDER CONSTRUCTION!👷🏽‍♀️🚧⚠️</h1>
