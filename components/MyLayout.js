@@ -13,6 +13,24 @@ const Layout = props => (
     </Head>
     {/* <Header /> */}
     {props.children}
+    <amp-analytics type="googleanalytics" id="analytics1" data-credentials="include">
+      <script
+        type="application/json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            vars: {
+              account: 'UA-126879454-1',
+            },
+            triggers: {
+              trackPageview: {
+                on: 'visible',
+                request: 'pageview'
+              }
+            }
+          })
+        }}
+      />
+    </amp-analytics>
     <Footer />
   </div>
 );

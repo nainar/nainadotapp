@@ -46,21 +46,6 @@ export default function Blog() {
           <PostLink key={post.id} post={post} />
         ))}
       </ul> */}
-    <amp-analytics type="googleanalytics">
-        <script type="application/json" jsx="true">{`
-        {
-            "vars": {
-                "account": "UA-126879454-1"
-            },
-            "triggers": {
-                "trackPageview": {
-                "on": "visible",
-                "request": "pageview"
-                }
-            }
-        }
-        `}</script>
-    </amp-analytics>
     <style jsx>{`
     @font-face {
         font-family: 'Bai Jamjuree';
