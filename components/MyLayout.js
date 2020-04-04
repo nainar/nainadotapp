@@ -14,7 +14,7 @@ const Layout = props => (
       <script async key="amp-analytics" custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"
         />
     </Head>
-    {/* <Header /> */}
+    <Header />
     {props.children}
     <amp-analytics type="googleanalytics" id="analytics1" data-credentials="include">
       <script

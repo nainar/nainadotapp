@@ -36,7 +36,7 @@ export const config = { amp: true };
 //     </li>
 //   );
 
-function Blog() {
+function HomePage() {
   return (
     <Layout>
       <h1>⚠️🚧👷🏽‍♀️UNDER CONSTRUCTION!👷🏽‍♀️🚧⚠️</h1>
@@ -68,4 +68,4 @@ function Blog() {
   );
 }
 
-export default Blog;
+export default HomePage;
