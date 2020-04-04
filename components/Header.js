@@ -10,6 +10,14 @@ const linkStyle = {
   color: 'purple'
 };
 
+ function getPages() {
+   return [
+     { link: '/resume', title: 'Resume' },
+     { link: '/posts', title: 'Posts' },
+     { link: '/talks', title: 'Talks' }
+   ];
+ }
+
 function Header() {
   return (
     <div>
@@ -42,6 +50,7 @@ function Header() {
             .links {
               position: relative; 
               top: 1em;
+              padding-left: 1em;
             }
             amp-sidebar, #toggleSidebar {
               display: none;
@@ -63,15 +72,11 @@ function Header() {
             }
         `}</style>
         <span className="links">
-          <Link href="/resume">
-            <a style={linkStyle}>Resume</a>
-          </Link>
-          <Link href="/posts">
-            <a style={linkStyle}>Posts</a>
-          </Link>
-          <Link href="/talks">
-            <a style={linkStyle}>Talks</a>
-          </Link>
+          {getPages().map(page => (
+            <Link href={page.link}>
+              <a style={linkStyle}>{page.title}</a>
+            </Link>
+          ))}
         </span>
         <Link href="/">
           <a style={linkStyle} className="name">Naina</a>
@@ -79,21 +84,13 @@ function Header() {
         <div id="toggleSidebar" role="button" aria-label="close sidebar" on="tap:sidebar1.toggle" tabindex="0">☰</div>
         <amp-sidebar id="sidebar1" layout="nodisplay" side="left">
           <ul class="sidebar" style={{listStyle: 'none'}}>
-            <li>
-              <Link href="/resume">
-                <a style={linkStyle}>Resume</a>
-              </Link>
-            </li>
-            <li>
-              <Link href="/posts">
-                <a style={linkStyle}>Posts</a>
-              </Link>
-            </li>
-            <li>
-              <Link href="/talks">
-                <a style={linkStyle}>Talks</a>
-              </Link>
-            </li>
+            {getPages().map(page => (
+              <li>
+                <Link href={page.link}>
+                  <a style={linkStyle}>{page.title}</a>
+                </Link>
+              </li>
+            ))}
           </ul>
         </amp-sidebar>
       </header>

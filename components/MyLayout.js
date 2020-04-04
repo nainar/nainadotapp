@@ -5,7 +5,6 @@ import { withAmp } from 'next/amp'
 
 export const config = { amp: true };
 
-
 const Layout = props => (
   <div>
     <Head>
