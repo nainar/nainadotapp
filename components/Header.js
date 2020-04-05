@@ -24,8 +24,9 @@ function Header() {
       <Head>
         <title>Naina Raisinghani</title>
         <script async key="amp-sidebar" custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" />
+        <script async key="amp-fx-collection" custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js" />
       </Head>
-      <header>
+      <header amp-fx="float-in-top">
         <style jsx>{`
             @font-face {
                 font-family: 'Bai Jamjuree';
@@ -38,6 +39,9 @@ function Header() {
                 background-color: #07c1b98a;
                 padding: 1vh 0 1vh 0;
                 height: 3em;
+                position: fixed;
+                overflow: hidden;
+                top: 0;
             }
             .name {
               position: fixed;
@@ -79,7 +83,7 @@ function Header() {
           ))}
         </span>
         <Link href="/">
-          <a style={linkStyle} className="name">Naina</a>
+          <a style={linkStyle} className="name">Naina's Blog 🤷🏾</a>
         </Link>
         <div id="toggleSidebar" role="button" aria-label="close sidebar" on="tap:sidebar1.toggle" tabindex="0">☰</div>
         <amp-sidebar id="sidebar1" layout="nodisplay" side="left">

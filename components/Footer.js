@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Head from 'next/head';
 import { withAmp } from 'next/amp'
 export const config = { amp: true };
 
@@ -19,7 +20,11 @@ const svgEmailStyle= {
 const fillStyle = {fill:'#000000'}
 
 const Footer = () => (
-    <footer role="contentinfo">
+  <div>
+    <Head>
+      <script async key="amp-fx-collection" custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js" />
+    </Head>
+    <footer role="contentinfo" amp-fx="float-in-bottom">
     <style jsx>{`
         @font-face {
             font-family: 'Bai Jamjuree';
@@ -29,6 +34,7 @@ const Footer = () => (
         footer {
             font-family: 'Bai Jamjuree', sans-serif;
             position: fixed;
+            overflow: hidden;
             height: 3em;
             left: 0;
             bottom: 0;
@@ -106,6 +112,7 @@ const Footer = () => (
     </a>
   <div id="footerText">Source code in the <a href="https://github.com/nainar/nainadotapp/">repository</a> on GitHub</div>
 </footer>
+  </div>
 );
 
 export default Footer;
