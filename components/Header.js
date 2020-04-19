@@ -73,6 +73,14 @@ function Header() {
               .links {
                 display: none;
               }
+              .name {
+                position: fixed;
+                text-align:center;
+                left: 50%;
+                transform: translateX(-50%);
+                font-size: 1.5em;
+                top: 0.75em;
+              }
             }
         `}</style>
         <span className="links">
