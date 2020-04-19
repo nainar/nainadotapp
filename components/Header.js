@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import { withAmp } from 'next/amp'
 import Head from 'next/head';
 
 export const config = { amp: true };
@@ -12,9 +11,9 @@ const linkStyle = {
 
  function getPages() {
    return [
-     { link: '/resume', title: 'Resume' },
-     { link: '/posts', title: 'Posts' },
-     { link: '/talks', title: 'Talks' }
+     { link: '/p/resume', title: 'Resume' },
+     { link: '/p/posts', title: 'Posts' },
+     { link: '/p/talks', title: 'Talks' }
    ];
  }
 
@@ -65,7 +64,8 @@ function Header() {
                 display: block;
                 position: relative; 
                 padding-left: 1em;
-                height: 100%
+                height: 100%;
+                z-index:1000;
               }
               #toggleSidebar {
                 padding-top: 1em;
@@ -82,9 +82,6 @@ function Header() {
             </Link>
           ))}
         </span>
-        <Link href="/">
-          <a style={linkStyle} className="name">Naina's Blog 🤷🏾</a>
-        </Link>
         <div id="toggleSidebar" role="button" aria-label="close sidebar" on="tap:sidebar1.toggle" tabindex="0">☰</div>
         <amp-sidebar id="sidebar1" layout="nodisplay" side="left">
           <ul class="sidebar" style={{listStyle: 'none'}}>
@@ -97,6 +94,9 @@ function Header() {
             ))}
           </ul>
         </amp-sidebar>
+        <Link href="/">
+          <a style={linkStyle} className="name">Naina's Blog </a>
+        </Link>
       </header>
     </div>
 )};

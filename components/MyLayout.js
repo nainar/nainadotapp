@@ -1,7 +1,6 @@
 import Header from './Header';
 import Footer from './Footer';
 import Head from 'next/head';
-import { withAmp } from 'next/amp'
 
 export const config = { amp: true };
 

@@ -1,6 +1,5 @@
 import Layout from '../components/MyLayout';
 import Link from 'next/link';
-import { withAmp } from 'next/amp'
 
 export const config = { amp: true };
 

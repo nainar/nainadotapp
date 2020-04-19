@@ -25,7 +25,11 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/next/dist/pages/_error": [
+    "/p/posts": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/p/talks": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]

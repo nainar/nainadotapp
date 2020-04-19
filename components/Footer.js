@@ -1,6 +1,4 @@
-import Link from 'next/link';
 import Head from 'next/head';
-import { withAmp } from 'next/amp'
 export const config = { amp: true };
 
 const svgStyle= {
