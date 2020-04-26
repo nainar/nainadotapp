@@ -11,8 +11,8 @@ const linkStyle = {
 
  function getPages() {
    return [
-     { link: '/p/resume', title: 'Resume' },
      { link: '/p/posts', title: 'Posts' },
+     { link: '/p/work', title: 'Profesh' },
      { link: '/p/talks', title: 'Talks' }
    ];
  }
@@ -35,7 +35,7 @@ function Header() {
             header {
                 font-family: 'Bai Jamjuree', sans-serif;
                 width: 100%;
-                background-color: #07c1b98a;
+                background-color: #38e4dd;
                 padding: 1vh 0 1vh 0;
                 height: 3em;
                 position: fixed;
@@ -60,24 +60,22 @@ function Header() {
             }
             
             @media only screen and (max-width: 768px) {
-              amp-sidebar, #toggleSidebar {
+              #toggleSidebar {
                 display: block;
                 position: relative; 
                 padding-left: 1em;
                 height: 100%;
-                z-index:1000;
-              }
-              #toggleSidebar {
                 padding-top: 1em;
+              }
+              amp-sidebar {
+                display: block;
+                width:100%;
+                top: 5em;
               }
               .links {
                 display: none;
               }
               .name {
-                position: fixed;
-                text-align:center;
-                left: 50%;
-                transform: translateX(-50%);
                 font-size: 1.5em;
                 top: 0.75em;
               }
@@ -91,8 +89,12 @@ function Header() {
           ))}
         </span>
         <div id="toggleSidebar" role="button" aria-label="close sidebar" on="tap:sidebar1.toggle" tabindex="0">☰</div>
-        <amp-sidebar id="sidebar1" layout="nodisplay" side="left">
-          <ul class="sidebar" style={{listStyle: 'none'}}>
+        <Link href="/">
+          <a style={linkStyle} className="name">Naina's Blog </a>
+        </Link>
+      </header>
+      <amp-sidebar id="sidebar1" layout="nodisplay" side="left">
+          <ul className="sidebar" style={{listStyle: 'none'}}>
             {getPages().map(page => (
               <li>
                 <Link href={page.link}>
@@ -102,10 +104,6 @@ function Header() {
             ))}
           </ul>
         </amp-sidebar>
-        <Link href="/">
-          <a style={linkStyle} className="name">Naina's Blog </a>
-        </Link>
-      </header>
     </div>
 )};
 

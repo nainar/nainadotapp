@@ -37,20 +37,16 @@ function HomePage() {
         text-decoration: none;
     }
     h1 {
-        color:red;
+        color:#d8156e;
     }
     main {
       position: fixed;
       margin: 0;
       color: #333333;
-    }
-
-    main {
       top: calc(50% - 16px);
       left: 50%;
       transform: translate(-50%, -50%);
     }
-    
     @media only screen and (max-width: 768px) {
       main {
         top: 4em;

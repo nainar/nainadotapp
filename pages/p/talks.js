@@ -12,9 +12,9 @@ function TalksPage() {
         <script async key="amp-youtube" custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"
             />
         </Head>
-      <div className="main">
+      <main>
         <div className="container">
-            <amp-youtube data-videoid="UyPdVFbZ3gs" layout="fixed" width="480" height="270" ></amp-youtube>
+            <amp-youtube data-videoid="UyPdVFbZ3gs" layout="responsive" width="480" height="270" ></amp-youtube>
             <div className="text">
                 <h2>AMP: A user driven component roadmap</h2>
                 <p>
@@ -22,7 +22,7 @@ function TalksPage() {
                 </p>
             </div>
 
-            <amp-youtube data-videoid="aRK85FSEsx0" layout="fixed" width="480" height="270"></amp-youtube>
+            <amp-youtube data-videoid="aRK85FSEsx0" layout="responsive" width="480" height="270"></amp-youtube>
             <div className="text">
                 <h2>Rapidly Building Better Web Experiences with AMP </h2>
                 <p>
@@ -33,7 +33,7 @@ function TalksPage() {
                 </p>
             </div>
 
-            <amp-youtube data-videoid="Ez_wOEmH2P0" layout="fixed" width="480" height="270"></amp-youtube>
+            <amp-youtube data-videoid="Ez_wOEmH1P0" layout="responsive" width="480" height="270"></amp-youtube>
             <div className="text">
                 <h2>AMP as a service: Auto-upgraded, accelerated developer workflows</h2>
                 <p>
@@ -44,7 +44,7 @@ function TalksPage() {
                 </p>
             </div>
 
-            <amp-youtube data-videoid="s7OyBFLr9rY" layout="fixed" width="480" height="270"></amp-youtube>
+            <amp-youtube data-videoid="s7OyBFLr9rY" layout="responsive" width="480" height="270"></amp-youtube>
             <div className="text">
                 <h2>Houdini - how you too can write a browser rendering engine!</h2>
                 <p>
@@ -55,7 +55,7 @@ function TalksPage() {
                 </p>
             </div>
         </div>
-      </div>
+      </main>
     <style jsx>{`
     @font-face {
         font-family: 'Bai Jamjuree';
@@ -66,19 +66,38 @@ function TalksPage() {
         font-family: 'Bai Jamjuree', sans-serif;
         text-decoration: none;
     }
-    .main {
-        top: 4em;
-    }
     .container {
         display: grid;
         grid-template-columns: 480px 480px;
-        grid-template-rows: auto;
+        grid-template-rows: 270px;
         grid-gap: 10px;
     }
     .text {
         text-align: center;
         vertical-align: middles;
     }
+    main {
+        position: fixed;
+        margin: 0;
+        top: calc(50%);
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    @media only screen and (max-width: 768px) {
+        .container {
+            display: block;
+        }    
+        main {
+            position:relative;
+            z-index:-1;
+            left: 0;
+            transform: translate(0%, 0%);
+            top:3.75em;
+        }  
+    }
+  
+
   `}</style>
     </Layout>
   );

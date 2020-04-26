@@ -37,7 +37,8 @@ const Footer = () => (
             left: 0;
             bottom: 0;
             width: 100%;
-            background-color: #a77be48a;
+            background-color: #b691ea;
+            opacity:1;
             text-align: center;
             padding: 1vh 0 1vh 0;
         }
