@@ -100,35 +100,49 @@ function TalksPage() {
     h1, h2, h3, h4 {
       color: #d8156e;
     }
+    .title {
+      text-align: center;
+      vertical-align: middles;
+    }
     .container {
         display: grid;
         grid-template-columns: 480px 480px;
         grid-template-rows: 270px;
         grid-gap: 10px;
     }
-    .title {
-        text-align: center;
-        vertical-align: middles;
+    .container {
+      display: block;
     }
     main {
-        position: fixed;
-        margin: 0;
-        top: calc(50%);
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
+        position:relative;
+        z-index:-1;
+        left: 0;
+        transform: translate(0%, 0%);
+        top:3.75em;
+    }  
 
-    @media only screen and (max-width: 768px) {
+    @media all and (min-width: 768px) and (max-width:1500px) {
         .container {
-            display: block;
-        }    
+            display: grid;
+            grid-template-columns: 480px 480px;
+            grid-template-rows: 270px;
+            grid-gap: 10px;
+        }
+    }
+    @media all and (min-width: 1500px) {
+        .container {
+            display: grid;
+            grid-template-columns: 480px 480px;
+            grid-template-rows: 270px;
+            grid-gap: 10px;
+        }
         main {
-            position:relative;
-            z-index:-1;
-            left: 0;
-            transform: translate(0%, 0%);
-            top:3.75em;
-        }  
+            position: fixed;
+            margin: 0;
+            top: calc(50%);
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
     }
   
 
