@@ -14,7 +14,7 @@ function HomePage({allPostsData}) {
     <Layout>
       <main>
           <section>
-            <h1>Hi! 👋🏾 This is my blog</h1>
+            <h1>Hi! 👋🏾 Here are some posts.</h1>
             <br/>
             {allPostsData.map(({ id, date, title }) => (
               <div>
