@@ -46,6 +46,7 @@ function HomePage() {
       top: calc(50% - 16px);
       left: 50%;
       transform: translate(-50%, -50%);
+      padding-left:10px;
     }
     @media only screen and (max-width: 768px) {
       main {

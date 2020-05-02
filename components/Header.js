@@ -5,15 +5,15 @@ export const config = { amp: true };
 
 const linkStyle = {
   marginRight: 15,
-  'text-decoration': 'none',
+  'textDecoration': 'none',
   color: 'purple'
 };
 
  function getPages() {
    return [
-     { link: '/p/posts', title: 'Posts' },
-     { link: '/p/work', title: 'Profesh' },
-     { link: '/p/talks', title: 'Talks' }
+     { link: '/posts', title: 'Posts' },
+     { link: '/work', title: 'Profesh' },
+     { link: '/talks', title: 'Talks' }
    ];
  }
 
