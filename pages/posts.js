@@ -59,6 +59,7 @@ function HomePage({allPostsData}) {
         top: 4em;
         left: 1em;
         transform: translate(0%, 0%);
+        padding-left:0px;
       }  
     }
 

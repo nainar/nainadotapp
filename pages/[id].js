@@ -52,6 +52,7 @@ export default function Post({ postData }) {
         transform: translate(0%, 0%);
         top:3.75em;
         padding-left:10px;
+        padding-bottom: 100px;
     }  
 
     @media all and (min-width: 768px) and (max-width:1500px) {
@@ -75,6 +76,8 @@ export default function Post({ postData }) {
             top: calc(50%);
             left: 50%;
             transform: translate(-50%, -50%);
+            padding-left:0px;
+            padding-bottom: 0px;
         }
     }
   `}</style>
