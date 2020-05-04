@@ -50,7 +50,7 @@ export default function Post({ postData }) {
         z-index:-1;
         left: 0;
         transform: translate(0%, 0%);
-        top:3.75em;
+        top:5.5em;
         padding-left:10px;
         padding-bottom: 100px;
     }  

@@ -44,7 +44,7 @@ function Header() {
                 width: 100%;
                 background-color: #38e4dd;
                 padding: 1vh 0 1vh 0;
-                height: 3em;
+                height: 5em;
                 position: fixed;
                 overflow: hidden;
                 top: 0;
@@ -73,10 +73,10 @@ function Header() {
                 background-color: #38e4dd;
                 width: 100%;
                 display: inline;
-                position: fixed; 
-                top: 3em;
                 padding-bottom: 5px;
                 font-size: 1.25em;
+                position: fixed;
+                top: 3em;
               }
               .desktopLinks {
                 display: none;
@@ -89,28 +89,27 @@ function Header() {
         `}</style> 
       <Head>
         <title>Naina Raisinghani</title>
-        <script async key="amp-sidebar" custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" />
         <script async key="amp-fx-collection" custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js" />
       </Head>
       <header amp-fx="float-in-top">
-        <span className="desktopLinks">
+        <div className="desktopLinks">
           {getPages().map(page => (
             <Link href={page.link}>
               <a style={dekstopLinkStyle}>{page.title}</a>
             </Link>
           ))}
-        </span>
+        </div>
         <Link href="/">
           <a style={linkStyle} className="name">Naina's Blog </a>
         </Link>
+        <div className="mobileLinks" amp-fx="float-in-top">
+          {getPages().map(page => (
+            <Link href={page.link}>
+              <a style={mobileLinkStyle}>{page.title}</a>
+            </Link>
+          ))}
+        </div>
       </header>
-      <span className="mobileLinks">
-        {getPages().map(page => (
-          <Link href={page.link}>
-            <a style={mobileLinkStyle}>{page.title}</a>
-          </Link>
-        ))}
-      </span>
     </div>
 )};
 
