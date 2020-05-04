@@ -44,7 +44,7 @@ function Header() {
                 width: 100%;
                 background-color: #38e4dd;
                 padding: 1vh 0 1vh 0;
-                height: 5em;
+                height: 3em;
                 position: fixed;
                 overflow: hidden;
                 top: 0;
@@ -84,6 +84,9 @@ function Header() {
               .name {
                 font-size: 1.5em;
                 top: 0.75em;
+              }
+              header {
+                height: 5em;
               }
             }
         `}</style> 
