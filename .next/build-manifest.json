@@ -31,6 +31,10 @@
     "/posts": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
+    ],
+    "/talks": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ]
   }
 }

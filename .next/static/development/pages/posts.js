@@ -23641,7 +23641,7 @@ function HomePage(_ref) {
       columnNumber: 5
     }
   }, __jsx("main", {
-    className: "jsx-1078787331",
+    className: "jsx-653794976",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -23649,7 +23649,7 @@ function HomePage(_ref) {
       columnNumber: 7
     }
   }, __jsx("section", {
-    className: "jsx-1078787331",
+    className: "jsx-653794976",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -23657,7 +23657,7 @@ function HomePage(_ref) {
       columnNumber: 11
     }
   }, __jsx("h1", {
-    className: "jsx-1078787331",
+    className: "jsx-653794976",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -23665,7 +23665,7 @@ function HomePage(_ref) {
       columnNumber: 13
     }
   }, "Hi! \uD83D\uDC4B\uD83C\uDFFE Here are some posts."), __jsx("br", {
-    className: "jsx-1078787331",
+    className: "jsx-653794976",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -23677,7 +23677,7 @@ function HomePage(_ref) {
         date = _ref2.date,
         title = _ref2.title;
     return __jsx("div", {
-      className: "jsx-1078787331",
+      className: "jsx-653794976",
       __self: _this,
       __source: {
         fileName: _jsxFileName,
@@ -23695,7 +23695,7 @@ function HomePage(_ref) {
       }
     }, __jsx("a", {
       style: linkStyle,
-      className: "jsx-1078787331",
+      className: "jsx-653794976",
       __self: _this,
       __source: {
         fileName: _jsxFileName,
@@ -23703,7 +23703,7 @@ function HomePage(_ref) {
         columnNumber: 19
       }
     }, title)), __jsx("br", {
-      className: "jsx-1078787331",
+      className: "jsx-653794976",
       __self: _this,
       __source: {
         fileName: _jsxFileName,
@@ -23711,7 +23711,7 @@ function HomePage(_ref) {
         columnNumber: 17
       }
     }), __jsx("small", {
-      className: "jsx-1078787331",
+      className: "jsx-653794976",
       __self: _this,
       __source: {
         fileName: _jsxFileName,
@@ -23727,7 +23727,7 @@ function HomePage(_ref) {
         columnNumber: 24
       }
     })), __jsx("br", {
-      className: "jsx-1078787331",
+      className: "jsx-653794976",
       __self: _this,
       __source: {
         fileName: _jsxFileName,
@@ -23735,7 +23735,7 @@ function HomePage(_ref) {
         columnNumber: 17
       }
     }), __jsx("br", {
-      className: "jsx-1078787331",
+      className: "jsx-653794976",
       __self: _this,
       __source: {
         fileName: _jsxFileName,
@@ -23744,9 +23744,9 @@ function HomePage(_ref) {
       }
     }));
   }))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "1078787331",
+    id: "653794976",
     __self: this
-  }, "@font-face{font-family:'Bai Jamjuree';font-style:sans-serif;src:url('https://fonts.googleapis.com/css?family=Bai+Jamjuree');}*.jsx-1078787331{font-family:'Bai Jamjuree',sans-serif;-webkit-text-decoration:none;text-decoration:none;}h1.jsx-1078787331{color:#d8156e;}main.jsx-1078787331{position:fixed;margin:0;color:#333333;top:calc(50% - 16px);left:50%;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%);padding-left:10px;}small.jsx-1078787331{color:grey;}@media only screen and (max-width:768px){main.jsx-1078787331{top:4em;left:1em;-webkit-transform:translate(0%,0%);-ms-transform:translate(0%,0%);transform:translate(0%,0%);padding-left:0px;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9uYWluYXIvbmFpbmFkb3RhcHAvcGFnZXMvcG9zdHMuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBK0JnQixBQUdvQyxBQUtZLEFBSTFCLEFBR0EsQUFTTCxBQUlBLFFBQ0MsR0FKYixHQVpBLENBR1csRUFjcUIsT0FiaEIsR0FiVSxXQUtELEFBU0YsV0FiNkMsVUFjekQsU0FDdUIsb0JBVmxDLHNCQXFCb0IsR0F6QnBCLGNBMEJFLDhDQVhpQixrQkFDbkIiLCJmaWxlIjoiL1VzZXJzL25haW5hci9uYWluYWRvdGFwcC9wYWdlcy9wb3N0cy5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMYXlvdXQgZnJvbSAnLi4vY29tcG9uZW50cy9NeUxheW91dCc7XG5pbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnXG5pbXBvcnQgeyBnZXRTb3J0ZWRQb3N0c0RhdGEgfSBmcm9tICcuLi9saWIvcG9zdHMnXG5pbXBvcnQgRGF0ZSBmcm9tICcuLi9jb21wb25lbnRzL0RhdGUnXG5cbmNvbnN0IGxpbmtTdHlsZSA9IHtcbiAgJ3RleHREZWNvcmF0aW9uJzogJ25vbmUnLFxuICBjb2xvcjogJ3B1cnBsZSdcbn07XG5cbmV4cG9ydCBjb25zdCBjb25maWcgPSB7IGFtcDogdHJ1ZSB9O1xuZnVuY3Rpb24gSG9tZVBhZ2Uoe2FsbFBvc3RzRGF0YX0pIHtcbiAgcmV0dXJuIChcbiAgICA8TGF5b3V0PlxuICAgICAgPG1haW4+XG4gICAgICAgICAgPHNlY3Rpb24+XG4gICAgICAgICAgICA8aDE+SGkhIPCfkYvwn4++IEhlcmUgYXJlIHNvbWUgcG9zdHMuPC9oMT5cbiAgICAgICAgICAgIDxici8+XG4gICAgICAgICAgICB7YWxsUG9zdHNEYXRhLm1hcCgoeyBpZCwgZGF0ZSwgdGl0bGUgfSkgPT4gKFxuICAgICAgICAgICAgICA8ZGl2PlxuICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvW2lkXVwiIGFzPXtgLyR7aWR9YH0+XG4gICAgICAgICAgICAgICAgICA8YSBzdHlsZT17bGlua1N0eWxlfT57dGl0bGV9PC9hPlxuICAgICAgICAgICAgICAgIDwvTGluaz5cbiAgICAgICAgICAgICAgICA8YnIgLz5cbiAgICAgICAgICAgICAgICA8c21hbGw+PERhdGUgZGF0ZVN0cmluZz17ZGF0ZX0gLz48L3NtYWxsPlxuICAgICAgICAgICAgICAgIDxiciAvPlxuICAgICAgICAgICAgICAgIDxiciAvPlxuICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICkpfVxuICAgICAgICAgIDwvc2VjdGlvbj5cbiAgICAgIDwvbWFpbj5cbiAgICA8c3R5bGUganN4PntgXG4gICAgQGZvbnQtZmFjZSB7XG4gICAgICAgIGZvbnQtZmFtaWx5OiAnQmFpIEphbWp1cmVlJztcbiAgICAgICAgZm9udC1zdHlsZTogc2Fucy1zZXJpZjtcbiAgICAgICAgc3JjOiB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1CYWkrSmFtanVyZWUnKTtcbiAgICB9XG4gICAgKiB7XG4gICAgICAgIGZvbnQtZmFtaWx5OiAnQmFpIEphbWp1cmVlJywgc2Fucy1zZXJpZjtcbiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgIH1cbiAgICBoMSB7XG4gICAgICAgIGNvbG9yOiNkODE1NmU7XG4gICAgfVxuICAgIG1haW4ge1xuICAgICAgcG9zaXRpb246IGZpeGVkO1xuICAgICAgbWFyZ2luOiAwO1xuICAgICAgY29sb3I6ICMzMzMzMzM7XG4gICAgICB0b3A6IGNhbGMoNTAlIC0gMTZweCk7XG4gICAgICBsZWZ0OiA1MCU7XG4gICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICAgIHBhZGRpbmctbGVmdDoxMHB4O1xuICAgIH1cbiAgICBzbWFsbCB7XG4gICAgICBjb2xvcjpncmV5O1xuICAgIH0gICAgXG4gICAgQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA3NjhweCkge1xuICAgICAgbWFpbiB7XG4gICAgICAgIHRvcDogNGVtO1xuICAgICAgICBsZWZ0OiAxZW07XG4gICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKDAlLCAwJSk7XG4gICAgICAgIHBhZGRpbmctbGVmdDowcHg7XG4gICAgICB9ICBcbiAgICB9XG5cbiAgYH08L3N0eWxlPlxuICAgIDwvTGF5b3V0PlxuICApO1xufVxuXG5leHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2V0U3RhdGljUHJvcHMoKSB7XG4gIGNvbnN0IGFsbFBvc3RzRGF0YSA9IGdldFNvcnRlZFBvc3RzRGF0YSgpXG4gIHJldHVybiB7XG4gICAgcHJvcHM6IHtcbiAgICAgIGFsbFBvc3RzRGF0YVxuICAgIH1cbiAgfVxufVxuXG5leHBvcnQgZGVmYXVsdCBIb21lUGFnZTsiXX0= */\n/*@ sourceURL=/Users/nainar/nainadotapp/pages/posts.js */"));
+  }, "@font-face{font-family:'Bai Jamjuree';font-style:sans-serif;src:url('https://fonts.googleapis.com/css?family=Bai+Jamjuree');}*.jsx-653794976{font-family:'Bai Jamjuree',sans-serif;-webkit-text-decoration:none;text-decoration:none;}h1.jsx-653794976{color:#d8156e;}main.jsx-653794976{position:fixed;margin:0;color:#333333;top:calc(50% - 16px);left:50%;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%);padding-left:10px;}small.jsx-653794976{color:grey;}@media only screen and (max-width:768px){main.jsx-653794976{top:5.5em;left:1em;-webkit-transform:translate(0%,0%);-ms-transform:translate(0%,0%);transform:translate(0%,0%);padding-left:0px;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9uYWluYXIvbmFpbmFkb3RhcHAvcGFnZXMvcG9zdHMuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBK0JnQixBQUdvQyxBQUtZLEFBSTFCLEFBR0EsQUFTTCxBQUlFLFVBQ0QsQ0FKYixHQVpBLENBR1csSUFjcUIsS0FiaEIsR0FiVSxXQUtELEFBU0YsV0FiNkMsVUFjekQsU0FDdUIsb0JBVmxDLHdCQXFCb0IsQ0F6QnBCLGdCQTBCRSw0Q0FYaUIsa0JBQ25CIiwiZmlsZSI6Ii9Vc2Vycy9uYWluYXIvbmFpbmFkb3RhcHAvcGFnZXMvcG9zdHMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGF5b3V0IGZyb20gJy4uL2NvbXBvbmVudHMvTXlMYXlvdXQnO1xuaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJ1xuaW1wb3J0IHsgZ2V0U29ydGVkUG9zdHNEYXRhIH0gZnJvbSAnLi4vbGliL3Bvc3RzJ1xuaW1wb3J0IERhdGUgZnJvbSAnLi4vY29tcG9uZW50cy9EYXRlJ1xuXG5jb25zdCBsaW5rU3R5bGUgPSB7XG4gICd0ZXh0RGVjb3JhdGlvbic6ICdub25lJyxcbiAgY29sb3I6ICdwdXJwbGUnXG59O1xuXG5leHBvcnQgY29uc3QgY29uZmlnID0geyBhbXA6IHRydWUgfTtcbmZ1bmN0aW9uIEhvbWVQYWdlKHthbGxQb3N0c0RhdGF9KSB7XG4gIHJldHVybiAoXG4gICAgPExheW91dD5cbiAgICAgIDxtYWluPlxuICAgICAgICAgIDxzZWN0aW9uPlxuICAgICAgICAgICAgPGgxPkhpISDwn5GL8J+PviBIZXJlIGFyZSBzb21lIHBvc3RzLjwvaDE+XG4gICAgICAgICAgICA8YnIvPlxuICAgICAgICAgICAge2FsbFBvc3RzRGF0YS5tYXAoKHsgaWQsIGRhdGUsIHRpdGxlIH0pID0+IChcbiAgICAgICAgICAgICAgPGRpdj5cbiAgICAgICAgICAgICAgICA8TGluayBocmVmPVwiL1tpZF1cIiBhcz17YC8ke2lkfWB9PlxuICAgICAgICAgICAgICAgICAgPGEgc3R5bGU9e2xpbmtTdHlsZX0+e3RpdGxlfTwvYT5cbiAgICAgICAgICAgICAgICA8L0xpbms+XG4gICAgICAgICAgICAgICAgPGJyIC8+XG4gICAgICAgICAgICAgICAgPHNtYWxsPjxEYXRlIGRhdGVTdHJpbmc9e2RhdGV9IC8+PC9zbWFsbD5cbiAgICAgICAgICAgICAgICA8YnIgLz5cbiAgICAgICAgICAgICAgICA8YnIgLz5cbiAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICApKX1cbiAgICAgICAgICA8L3NlY3Rpb24+XG4gICAgICA8L21haW4+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgIEBmb250LWZhY2Uge1xuICAgICAgICBmb250LWZhbWlseTogJ0JhaSBKYW1qdXJlZSc7XG4gICAgICAgIGZvbnQtc3R5bGU6IHNhbnMtc2VyaWY7XG4gICAgICAgIHNyYzogdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9QmFpK0phbWp1cmVlJyk7XG4gICAgfVxuICAgICoge1xuICAgICAgICBmb250LWZhbWlseTogJ0JhaSBKYW1qdXJlZScsIHNhbnMtc2VyaWY7XG4gICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICB9XG4gICAgaDEge1xuICAgICAgICBjb2xvcjojZDgxNTZlO1xuICAgIH1cbiAgICBtYWluIHtcbiAgICAgIHBvc2l0aW9uOiBmaXhlZDtcbiAgICAgIG1hcmdpbjogMDtcbiAgICAgIGNvbG9yOiAjMzMzMzMzO1xuICAgICAgdG9wOiBjYWxjKDUwJSAtIDE2cHgpO1xuICAgICAgbGVmdDogNTAlO1xuICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgICBwYWRkaW5nLWxlZnQ6MTBweDtcbiAgICB9XG4gICAgc21hbGwge1xuICAgICAgY29sb3I6Z3JleTtcbiAgICB9ICAgIFxuICAgIEBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzY4cHgpIHtcbiAgICAgIG1haW4ge1xuICAgICAgICB0b3A6IDUuNWVtO1xuICAgICAgICBsZWZ0OiAxZW07XG4gICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKDAlLCAwJSk7XG4gICAgICAgIHBhZGRpbmctbGVmdDowcHg7XG4gICAgICB9ICBcbiAgICB9XG5cbiAgYH08L3N0eWxlPlxuICAgIDwvTGF5b3V0PlxuICApO1xufVxuXG5leHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2V0U3RhdGljUHJvcHMoKSB7XG4gIGNvbnN0IGFsbFBvc3RzRGF0YSA9IGdldFNvcnRlZFBvc3RzRGF0YSgpXG4gIHJldHVybiB7XG4gICAgcHJvcHM6IHtcbiAgICAgIGFsbFBvc3RzRGF0YVxuICAgIH1cbiAgfVxufVxuXG5leHBvcnQgZGVmYXVsdCBIb21lUGFnZTsiXX0= */\n/*@ sourceURL=/Users/nainar/nainadotapp/pages/posts.js */"));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (HomePage);

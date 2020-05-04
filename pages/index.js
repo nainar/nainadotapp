@@ -50,7 +50,7 @@ function HomePage() {
     }
     @media only screen and (max-width: 768px) {
       main {
-        top: 4em;
+        top: 5.5em;
         left: 1em;
         transform: translate(0%, 0%);
         padding-left:0px;

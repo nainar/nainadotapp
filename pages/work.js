@@ -116,7 +116,7 @@ function TalksPage() {
         z-index:-1;
         left: 0;
         transform: translate(0%, 0%);
-        top:3.75em;
+        top: 5.5em;
     }  
 
     @media all and (min-width: 768px) and (max-width:1500px) {
