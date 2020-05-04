@@ -105,7 +105,7 @@ function Header() {
         <Link href="/">
           <a style={linkStyle} className="name">Naina's Blog </a>
         </Link>
-        <div className="mobileLinks" amp-fx="float-in-top">
+        <div className="mobileLinks">
           {getPages().map(page => (
             <Link href={page.link}>
               <a style={mobileLinkStyle}>{page.title}</a>
