@@ -1,6 +1,6 @@
 ---
 title: "Things I have learnt in creating this blog"
-date: "2020-05-03"
+date: "2020-05-01"
 ---
  
 This blog is a 1.5 years of planning and inaction, but I am glad that quarantine forced me to get back to working on it. I see it as a way of talking about things that excite me:

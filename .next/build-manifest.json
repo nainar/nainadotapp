@@ -8,7 +8,7 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
-    "/[id]": [
+    "/": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
@@ -24,15 +24,11 @@
       "static/runtime/polyfills.js",
       "static/runtime/polyfills.js.map"
     ],
-    "/next/dist/pages/_error": [
+    "/index": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
     "/posts": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/talks": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
