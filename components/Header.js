@@ -11,8 +11,8 @@ const linkStyle = {
 const mobileLinkStyle = {
   'textDecoration': 'none',
   color: 'purple',
-  marginRight: '10%',
-  marginLeft: '10%',
+  marginRight: '8%',
+  marginLeft: '8%',
 };
 const dekstopLinkStyle = {
   marginRight: 15,
@@ -74,8 +74,9 @@ function Header() {
                 width: 100%;
                 display: inline;
                 position: fixed; 
-                top: 3.75em;
+                top: 3em;
                 padding-bottom: 5px;
+                font-size: 1.25em;
               }
               .desktopLinks {
                 display: none;
