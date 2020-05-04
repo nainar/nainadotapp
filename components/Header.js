@@ -75,6 +75,7 @@ function Header() {
                 display: inline;
                 position: fixed; 
                 top: 3.75em;
+                padding-bottom: 2px;
               }
               .desktopLinks {
                 display: none;
