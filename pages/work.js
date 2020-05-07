@@ -113,7 +113,6 @@ function TalksPage() {
     }
     main {
         position:relative;
-        z-index:-1;
         left: 0;
         transform: translate(0%, 0%);
         top: 5.5em;

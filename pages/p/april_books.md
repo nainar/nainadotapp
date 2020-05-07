@@ -11,9 +11,9 @@ A biologist writes fiction? I'm in!
 
 Even if you didn't know that Delia Owens was a biologist her descriptions of the marshes of North Carolina are a giveaway of her expertise. `Where the Crawdads Sing` give you an immediate role model in Catherine 'Kya' Clark - a strong girl, having to 'Home Alone' it in a shack. This is currently the best fiction I have read in 2020. 
 
-**[Trick Mirror by Jia Torentino](https://www.goodreads.com/book/show/43126457-trick-mirror?ac=1&from_search=true&qid=m9MoBmPkDA&rank=1)**
+**[Trick Mirror by Jia Tolentino](https://www.goodreads.com/book/show/43126457-trick-mirror?ac=1&from_search=true&qid=m9MoBmPkDA&rank=1)**
 
-This book consists of essays written by Jia Torentino - a writer for the New Yorker. My favourite was `The Story of a Generation in Seven Scams`, a holistic overview at some of the most well known scammers in US contemporary history. I found Jia's reflections on fictional heroines as written in `Pure Heroines` the most difficult to comprehend - potentially due to not having read much of the literature she quotes. It did give me along reading list to peruse later. It's definitely something I have bookmarked to reread later.  
+This book consists of essays written by Jia Tolentino - a writer for the New Yorker. My favourite was `The Story of a Generation in Seven Scams`, a holistic overview at some of the most well known scammers in US contemporary history. I found Jia's reflections on fictional heroines as written in `Pure Heroines` the most difficult to comprehend - potentially due to not having read much of the literature she quotes. It did give me along reading list to peruse later. It's definitely something I have bookmarked to reread later.  
 
 **[Shopaholic to the Stars by Sophie Kinsella](https://www.goodreads.com/book/show/21064599-shopaholic-to-the-stars?ac=1&from_search=true&qid=A3zIhmToEu&rank=1)**
 
