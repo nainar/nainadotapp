@@ -116,7 +116,8 @@ function TalksPage() {
         left: 0;
         transform: translate(0%, 0%);
         top: 5.5em;
-    }  
+        width: 95%;
+      }  
 
     @media all and (min-width: 768px) and (max-width:1500px) {
         .container {

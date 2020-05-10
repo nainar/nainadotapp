@@ -52,7 +52,8 @@ export default function Post({ postData }) {
         top:5.5em;
         padding-left:10px;
         padding-bottom: 100px;
-    }  
+        width: 95%;
+      }  
 
     @media all and (min-width: 768px) and (max-width:1500px) {
         .container {

@@ -50,6 +50,7 @@ function HomePage({allPostsData}) {
       left: 50%;
       transform: translate(-50%, -50%);
       padding-left:10px;
+      width: 95%;
     }
     small {
       color:grey;

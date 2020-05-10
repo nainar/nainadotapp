@@ -80,6 +80,7 @@ function TalksPage() {
         top: 6em;
         padding-left:10px;
         padding-bottom: 100px;
+        width: 95%;
     }  
 
     @media all and (min-width: 768px) and (max-width:2000px) {
