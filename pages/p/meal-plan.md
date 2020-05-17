@@ -1,6 +1,6 @@
 ---
 title: "My meal prep planner"
-date: "2020-05-17"
+date: "2020-05-16"
 ---
 
 It should come as no shock to anyone that I have choosen to use this time in quarantine to organize my life!
