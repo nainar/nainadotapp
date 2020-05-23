@@ -3,6 +3,9 @@ title: "Recipe: Mushroom Biryani"
 date: "2020-05-22"
 ---
 
+## What is it?
+A vegetarian biryani that uses mushrooms instead of meat.
+
 Serves: 4
 
 ## Ingredients
