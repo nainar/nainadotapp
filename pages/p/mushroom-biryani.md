@@ -38,7 +38,7 @@ Serves: 4
 
 <!-- <amp-img src="/mushroom-biryani.jpg"
     width="3024"
-    height="4032"
+    height="4032"  
     layout="responsive"
     alt="Bowl of mushroom biryani">
 </amp-img> -->
