@@ -9,7 +9,7 @@ date: "2020-05-02"
 
 A biologist writes fiction? I'm in! 
 
-Even if you didn't know that Delia Owens was a biologist her descriptions of the marshes of North Carolina are a giveaway of her expertise. `Where the Crawdads Sing` give you an immediate role model in Catherine 'Kya' Clark - a strong girl, having to 'Home Alone' it in a shack. This is currently the best fiction I have read in 2020. 
+Even if you didn't know that Delia Owens was a biologist her descriptions of the marshes of North Carolina are a giveaway of her expertise. "Where the Crawdads Sing" give you an immediate role model in Catherine 'Kya' Clark - a strong girl, having to 'Home Alone' it in a shack. This is currently the best fiction I have read in 2020. 
 
 **[Trick Mirror by Jia Tolentino](https://www.goodreads.com/book/show/43126457-trick-mirror?ac=1&from_search=true&qid=m9MoBmPkDA&rank=1)**
 

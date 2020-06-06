@@ -1,5 +1,5 @@
 ---
-title: "My first 10 stops post quarantine"
+title: "My first few stops post quarantine"
 date: "2020-05-17"
 ---
 

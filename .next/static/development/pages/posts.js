@@ -23841,7 +23841,7 @@ function HomePage(_ref) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 2:
 /*!************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fposts&absolutePagePath=%2FUsers%2Fnainar%2Fnainadotapp%2Fpages%2Fposts.js ***!
   \************************************************************************************************************************/
@@ -23864,5 +23864,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=posts.js.map

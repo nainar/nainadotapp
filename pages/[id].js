@@ -17,13 +17,15 @@ export default function Post({ postData }) {
         <small><Date dateString={postData.date} /></small>
         <br />
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-        <div className="imgHolder">
-          <amp-img src={postData.imgUrl}
-            width="3024"
-            height="4032"  
-            layout="intrinsic">
-          </amp-img>
-        </div>
+        {postData.imgUrl? (
+          <div className="imgHolder">
+            <amp-img src={postData.imgUrl}
+              width="3024"
+              height="4032"  
+              layout="intrinsic">
+            </amp-img>
+          </div>          
+        ) : <div></div>}
       </main>
     <style jsx>{`
       @font-face {
