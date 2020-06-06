@@ -53,7 +53,7 @@ export default function Post({ postData }) {
       }
       main {
         position:relative;
-        left: 0;
+        left: 1em;
         transform: translate(0%, 0%);
         top:5.5em;
         padding-left:10px;
@@ -70,17 +70,6 @@ export default function Post({ postData }) {
             height: 100%;
         }
     }
-    @media all and (min-width: 1500px) {
-        main {
-            position: fixed;
-            margin: 0;
-            top: calc(50%);
-            left: 50%;
-            transform: translate(-50%, -50%);
-            padding-left:0px;
-            padding-bottom: 0px;
-        }  
-      }
     `}
     </style>
     </Layout>

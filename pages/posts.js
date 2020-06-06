@@ -82,16 +82,19 @@ function HomePage({allPostsData}) {
       transform: translate(-50%, -50%);
       padding-left:10px;
       width: 95%;
+      padding-bottom: 0px;
     }
     small {
       color:grey;
     }    
     @media only screen and (max-width: 1500px) {
       main {
+        position: relative;
         top: 5.5em;
         left: 1em;
         transform: translate(0%, 0%);
         padding-left:0px;
+        padding-bottom: 100px;
       }  
     }
 
