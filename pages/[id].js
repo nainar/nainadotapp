@@ -17,6 +17,14 @@ export default function Post({ postData }) {
         <small><Date dateString={postData.date} /></small>
         <br />
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+        <div className="imgHolder">
+          <amp-img src={postData.imgUrl}
+            width="3024"
+            height="4032"  
+            layout="intrinsic">
+          </amp-img>
+      </div>
+
       </main>
     <style jsx>{`
       @font-face {
@@ -50,8 +58,18 @@ export default function Post({ postData }) {
         padding-left:10px;
         padding-bottom: 100px;
         width: 95%;
-      }  
-      @media all and (min-width: 1500px) {
+      } 
+      .imgHolder {
+          width:30vw; 
+          height:30vh; 
+      }
+      @media all and (max-width: 500px) {
+        .imgHolder {
+            width: 100%;
+            height: 100%;
+        }
+    }
+    @media all and (min-width: 1500px) {
         main {
             position: fixed;
             margin: 0;
@@ -60,9 +78,10 @@ export default function Post({ postData }) {
             transform: translate(-50%, -50%);
             padding-left:0px;
             padding-bottom: 0px;
-        }
+        }  
       }
-    `}</style>
+    `}
+    </style>
     </Layout>
   );
 }
