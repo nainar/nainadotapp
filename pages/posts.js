@@ -86,7 +86,7 @@ function HomePage({allPostsData}) {
     small {
       color:grey;
     }    
-    @media only screen and (max-width: 768px) {
+    @media only screen and (max-width: 1500px) {
       main {
         top: 5.5em;
         left: 1em;

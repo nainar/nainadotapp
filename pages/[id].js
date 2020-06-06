@@ -23,8 +23,7 @@ export default function Post({ postData }) {
             height="4032"  
             layout="intrinsic">
           </amp-img>
-      </div>
-
+        </div>
       </main>
     <style jsx>{`
       @font-face {
