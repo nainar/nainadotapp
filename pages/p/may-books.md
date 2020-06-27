@@ -5,7 +5,7 @@ date: "2020-05-31"
 
 ## The books and my thoughts
 
-It's strange to onlyhave 2 finished books here. I blame the long book queues on [Libby](https://www.overdrive.com/apps/libby/).
+It's strange to only have 2 finished books here. I blame the long book queues on [Libby](https://www.overdrive.com/apps/libby/).
 
 **[Uncanny Valley by Anna Wiener](https://www.goodreads.com/book/show/45186565-uncanny-valley?ac=1&from_search=true&qid=i791ozeuRM&rank=1)**
 
@@ -17,7 +17,7 @@ This book made me nod along and ruminate about the flaws the author brings up ab
 
 **[The Testaments by Margaret Atwood](https://www.goodreads.com/book/show/42975172-the-testaments?ac=1&from_search=true&qid=LwpQqZfw5R&rank=1)**
 
-Margaret Atwood's first novel [The Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale) makes you think that the current climate we live in was modelled upon Gilead. Does that mean that The Testaments offers us hope for the future? You see the same Gilead you did in The Handmaid's Tale with the glimmer of a rebellion. And it is this glimmer, that makes The Testaments more "fun" to read than its predecessor.
+Margaret Atwood's first novel [The Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale) makes you think that the current climate we live in was modeled upon Gilead. Does that mean that The Testaments offers us hope for the future? You see the same Gilead you did in The Handmaid's Tale with the glimmer of a rebellion. And it is this glimmer, that makes The Testaments more "fun" to read than its predecessor.
 
 While I was disappointed to not hear June's side of the story in this book, learning about Aunt Lydia's past and how she came to her current position was insightful. 
 

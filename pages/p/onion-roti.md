@@ -10,13 +10,13 @@ Makes: 6 rotis
 
 ## Ingredients
 1. 240g grams whole-wheat flour, plus more for dusting
-1. 2 teaspoons neutral oil, such as grapeseed or canola
+1. 2 teaspoons neutral oil, such as grape seed or canola
 1. ¾ cup lukewarm water
 1. 1 teaspoon kosher salt (divided into 2 ½ portions)
 1. ½ red onion
 1. Salt 
 1. Chat masala
-1. Red chilli powder
+1. Red chili powder
 1. Cumin powder
 1. Coriander powder
 
