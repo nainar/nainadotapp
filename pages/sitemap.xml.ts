@@ -12,11 +12,7 @@ const blogPostsXml = (blogPostsData) => {
     }
     postsXml += `
     <url>
-<<<<<<< HEAD
       <loc>https://naina.app/${post.id}</loc>
-=======
-      <loc>${post.id}</loc>
->>>>>>> 90d21c1416505563ad864017b069be39758e6f79
       <lastmod>${format(postDate, 'LLLL d, yyyy')}</lastmod>
       <priority>0.80</priority>
     </url>`;
