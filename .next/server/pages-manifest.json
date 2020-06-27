@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"/_app":"static/development/pages/_app.js","/_document":"static/development/pages/_document.js","/_error":"static/development/pages/_error.js","/sitemap.xml":"static/development/pages/sitemap.xml.js"}
+=======
+{"/[id]":"static/GzXcmWN1UcCTE-zyBf2cY/pages/[id].js","/_app":"static/GzXcmWN1UcCTE-zyBf2cY/pages/_app.js","/_document":"static/GzXcmWN1UcCTE-zyBf2cY/pages/_document.js","/_error":"static/GzXcmWN1UcCTE-zyBf2cY/pages/_error.js","/api/posts-sitemap":"static/GzXcmWN1UcCTE-zyBf2cY/pages/api/posts-sitemap.js","/hold":"static/GzXcmWN1UcCTE-zyBf2cY/pages/hold.html","/index":"static/GzXcmWN1UcCTE-zyBf2cY/pages/index.html","/posts":"static/GzXcmWN1UcCTE-zyBf2cY/pages/posts.js","/talks":"static/GzXcmWN1UcCTE-zyBf2cY/pages/talks.html","/work":"static/GzXcmWN1UcCTE-zyBf2cY/pages/work.html","/":"static/GzXcmWN1UcCTE-zyBf2cY/pages/index.html","/404":"static/GzXcmWN1UcCTE-zyBf2cY/pages/404.html"}
+>>>>>>> 6f86ca53c3f863a73f99e9d5c7ea22f62c4ac247
