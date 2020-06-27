@@ -49630,7 +49630,7 @@ var blogPostsXml = function blogPostsXml(blogPostsData) {
       latestPost = postDate;
     }
 
-    postsXml += "\n    <url>\n      <loc>https://naina.app/".concat(post.id, "</loc>\n      <lastmod>").concat(Object(date_fns__WEBPACK_IMPORTED_MODULE_4__["format"])(postDate, 'LLLL d, yyyy'), "</lastmod>\n      <priority>0.80</priority>\n    </url>");
+    postsXml += "\n    <url>\n<<<<<<< HEAD\n      <loc>https://naina.app/".concat(post.id, "</loc>\n=======\n      <loc>").concat(post.id, "</loc>\n>>>>>>> 90d21c1416505563ad864017b069be39758e6f79\n      <lastmod>").concat(Object(date_fns__WEBPACK_IMPORTED_MODULE_4__["format"])(postDate, 'LLLL d, yyyy'), "</lastmod>\n      <priority>0.80</priority>\n    </url>");
   });
   return {
     postsXml: postsXml,
