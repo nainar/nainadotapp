@@ -34,6 +34,7 @@ const sitemapXml = (blogPostsData) => {
     </url>
     <url>
       <loc>https://naina.app/posts</loc>
+      <lastmod>${latestPost}</lastmod>
       <priority>0.8</priority>
     </url>
     <url>
