@@ -15,6 +15,7 @@ function HomePage() {
     <Layout>
       <main>
         <Head>
+        <meta name="google-site-verification" content="1GQoytT_cGEOGHFM6AivQ5wkkzSjTEqf1WEjKMaKuRQ" />
           <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"
             />
           <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
