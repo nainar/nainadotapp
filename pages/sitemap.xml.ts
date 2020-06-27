@@ -1,18 +1,19 @@
 import { NextPageContext } from "next";
 import { getSortedPostsData } from '../lib/posts'
+import { parseISO, format } from 'date-fns'
 
 const blogPostsXml = (blogPostsData) => {
-  let latestPost = 0;
+  let latestPost = blogPostsData[0].date;
   let postsXml = "";
   blogPostsData.map(post => {
-    const postDate = Date.parse(post.date);
+    const postDate = parseISO(post.date);
     if (!latestPost || postDate > latestPost) {
       latestPost = postDate;
     }
     postsXml += `
     <url>
       <loc>${post.id}</loc>
-      <lastmod>${postDate}</lastmod>
+      <lastmod>${format(postDate, 'LLLL d, yyyy')}</lastmod>
       <priority>0.80</priority>
     </url>`;
   });
