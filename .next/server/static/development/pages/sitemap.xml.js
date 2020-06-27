@@ -203,13 +203,16 @@ async function getPostData(id) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Sitemap; });
 /* harmony import */ var _lib_posts__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../lib/posts */ "./lib/posts.js");
+/* harmony import */ var date_fns__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! date-fns */ "date-fns");
+/* harmony import */ var date_fns__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(date_fns__WEBPACK_IMPORTED_MODULE_1__);
+
 
 
 const blogPostsXml = blogPostsData => {
-  let latestPost = 0;
+  let latestPost = blogPostsData[0].date;
   let postsXml = "";
   blogPostsData.map(post => {
-    const postDate = Date.parse(post.date);
+    const postDate = Object(date_fns__WEBPACK_IMPORTED_MODULE_1__["parseISO"])(post.date);
 
     if (!latestPost || postDate > latestPost) {
       latestPost = postDate;
@@ -217,8 +220,8 @@ const blogPostsXml = blogPostsData => {
 
     postsXml += `
     <url>
-      <loc>${post.id}</loc>
-      <lastmod>${postDate}</lastmod>
+      <loc>https://naina.app/${post.id}</loc>
+      <lastmod>${Object(date_fns__WEBPACK_IMPORTED_MODULE_1__["format"])(postDate, 'LLLL d, yyyy')}</lastmod>
       <priority>0.80</priority>
     </url>`;
   });
@@ -279,6 +282,17 @@ class Sitemap {
 
 module.exports = __webpack_require__(/*! /Users/nainar/nainadotapp/pages/sitemap.xml.ts */"./pages/sitemap.xml.ts");
 
+
+/***/ }),
+
+/***/ "date-fns":
+/*!***************************!*\
+  !*** external "date-fns" ***!
+  \***************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("date-fns");
 
 /***/ }),
 
