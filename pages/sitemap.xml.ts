@@ -29,7 +29,7 @@ const sitemapXml = (blogPostsData) => {
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>https://naina.app/</loc>
-      <lastmod>https://naina.app/${latestPost}</lastmod>
+      <lastmod>${latestPost}</lastmod>
       <priority>1.00</priority>
     </url>
     <url>
