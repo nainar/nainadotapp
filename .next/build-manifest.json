@@ -1,32 +1,53 @@
 {
-  "devFiles": [
-    "static/development/dll/dll_dc8ac110ce5d8530b237.js",
-    "static/development/dll/dll_dc8ac110ce5d8530b237.js.map"
-  ],
+  "devFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/GzXcmWN1UcCTE-zyBf2cY/_buildManifest.js",
+    "static/GzXcmWN1UcCTE-zyBf2cY/_ssgManifest.js"
   ],
   "pages": {
+    "/": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/runtime/main-fe85ebc501819654e91a.js"
+    ],
     "/[id]": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/runtime/main-fe85ebc501819654e91a.js"
     ],
     "/_app": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.0f140d5eb2070c7e423d.js",
+      "static/chunks/a4757e8d924ecfe86e207491790edb595cf59869.82b7337d85f15f4914bd.js",
+      "static/runtime/main-fe85ebc501819654e91a.js"
     ],
     "/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.0f140d5eb2070c7e423d.js",
+      "static/runtime/main-fe85ebc501819654e91a.js"
     ],
     "/_polyfills": [
-      "static/runtime/polyfills.js",
-      "static/runtime/polyfills.js.map"
+      "static/runtime/polyfills-16ccf9440fd1c9275fd4.js"
+    ],
+    "/hold": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.0f140d5eb2070c7e423d.js",
+      "static/chunks/a4757e8d924ecfe86e207491790edb595cf59869.82b7337d85f15f4914bd.js",
+      "static/runtime/main-fe85ebc501819654e91a.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/runtime/main-fe85ebc501819654e91a.js"
     ],
     "/posts": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/runtime/main-fe85ebc501819654e91a.js"
+    ],
+    "/talks": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/runtime/main-fe85ebc501819654e91a.js"
+    ],
+    "/work": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/runtime/main-fe85ebc501819654e91a.js"
     ]
   }
 }

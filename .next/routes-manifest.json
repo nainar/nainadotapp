@@ -1,0 +1,1 @@
+{"version":1,"pages404":true,"basePath":"","redirects":[],"rewrites":[],"headers":[],"dynamicRoutes":[{"page":"/[id]","regex":"^\\/([^/]+?)(?:\\/)?$"}],"dataRoutes":[{"page":"/posts","dataRouteRegex":"^\\/_next\\/data\\/GzXcmWN1UcCTE\\-zyBf2cY\\/posts.json$"},{"page":"/[id]","dataRouteRegex":"^\\/_next\\/data\\/GzXcmWN1UcCTE\\-zyBf2cY\\/([^/]+?)\\.json$"}]}
