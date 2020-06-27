@@ -49643,7 +49643,7 @@ var sitemapXml = function sitemapXml(blogPostsData) {
       postsXml = _blogPostsXml.postsXml,
       latestPost = _blogPostsXml.latestPost;
 
-  return "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n    <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n    <url>\n      <loc>https://naina.app/</loc>\n      <lastmod>".concat(latestPost, "</lastmod>\n      <priority>1.00</priority>\n    </url>\n    <url>\n      <loc>https://naina.app/posts</loc>\n      <priority>0.8</priority>\n    </url>\n    <url>\n      <loc>https://naina.app/work</loc>\n      <priority>0.7</priority>\n    </url>\n    <url>\n      <loc>https://naina.app/talks</loc>\n      <priority>0.5</priority>\n    </url>\n    ").concat(postsXml, "\n  </urlset>");
+  return "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n    <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n    <url>\n      <loc>https://naina.app/</loc>\n      <lastmod>https://naina.app/".concat(latestPost, "</lastmod>\n      <priority>1.00</priority>\n    </url>\n    <url>\n      <loc>https://naina.app/posts</loc>\n      <priority>0.8</priority>\n    </url>\n    <url>\n      <loc>https://naina.app/work</loc>\n      <priority>0.7</priority>\n    </url>\n    <url>\n      <loc>https://naina.app/talks</loc>\n      <priority>0.5</priority>\n    </url>\n    ").concat(postsXml, "\n  </urlset>");
 };
 
 var Sitemap = /*#__PURE__*/function () {
