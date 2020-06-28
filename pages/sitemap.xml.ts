@@ -13,7 +13,7 @@ const blogPostsXml = (blogPostsData) => {
     postsXml += `
     <url>
       <loc>https://naina.app/${post.id}</loc>
-      <lastmod>${format(postDate, 'LLLL d, yyyy')}</lastmod>
+      <lastmod>${format(postDate, 'yyyy-MM-dd')}</lastmod>
       <priority>0.80</priority>
     </url>`;
   });
@@ -29,12 +29,12 @@ const sitemapXml = (blogPostsData) => {
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>https://naina.app/</loc>
-      <lastmod>${latestPost}</lastmod>
+      <lastmod>${format(latestPost, 'yyyy-MM-dd')}</lastmod>
       <priority>1.00</priority>
     </url>
     <url>
       <loc>https://naina.app/posts</loc>
-      <lastmod>${latestPost}</lastmod>
+      <lastmod>${format(latestPost, 'yyyy-MM-dd')}</lastmod>
       <priority>0.8</priority>
     </url>
     <url>
