@@ -56,7 +56,7 @@ function TalksPage() {
             </div>
         </div>
       </main>
-    <style jsx>{`
+    <style jsx global>{`
     @font-face {
         font-family: 'Bai Jamjuree';
         font-style: sans-serif;

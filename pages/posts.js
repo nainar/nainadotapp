@@ -60,7 +60,7 @@ function HomePage({allPostsData}) {
             ))}
           </section>
       </main>
-    <style jsx>{`
+    <style jsx global>{`
     @font-face {
         font-family: 'Bai Jamjuree';
         font-style: sans-serif;
