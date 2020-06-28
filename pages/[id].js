@@ -17,17 +17,8 @@ export default function Post({ postData }) {
         <small><Date dateString={postData.date} /></small>
         <br />
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-        {postData.imgUrl? (
-          <div className="imgHolder">
-            <amp-img src={postData.imgUrl}
-              width="3024"
-              height="4032"  
-              layout="intrinsic">
-            </amp-img>
-          </div>          
-        ) : <div></div>}
       </main>
-    <style jsx>{`
+    <style jsx global>{`
       @font-face {
         font-family: 'Bai Jamjuree';
         font-style: sans-serif;
@@ -58,18 +49,16 @@ export default function Post({ postData }) {
         top:5.5em;
         padding-left:10px;
         padding-bottom: 100px;
-        width: 95%;
+        width: 90%;
       } 
-      .imgHolder {
-          width:30vw; 
-          height:30vh; 
+      amp-img {
+        width: 40vw; 
       }
       @media all and (max-width: 500px) {
-        .imgHolder {
-            width: 100%;
-            height: 100%;
+        amp-img {
+          width: 100%;
         }
-    }
+      }
     `}
     </style>
     </Layout>

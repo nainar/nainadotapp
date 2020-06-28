@@ -1,7 +1,6 @@
 ---
 title: "Recipe: Mushroom Biryani"
 date: "2020-05-22"
-imgUrl: "/mushroom-biryani.jpg"
 ---
 
 ## What is it?
@@ -36,6 +35,12 @@ Serves: 4
 1. In a clean saucepan, layer half the rice, the mushroom curry and then the remainder of the rice. 
 1. Cover with a lid and cook for 5 minutes on low heat. 
 1. Serve with onions. 
+
+<amp-img src="/mushroom-biryani.jpg"
+    width="3024"
+    height="4032"  
+    layout="intrinsic">
+</amp-img>
 
 ## Notes
 - I use [Shan's Sindhi Biryani powder](https://www.shanfoodsshop.com/product-category/recipe-mix/biryani-masala/). While I get mine on my annual trip to Pakistan, it is also available on Amazon if needed. However, [here](https://www.indianhealthyrecipes.com/homemade-biryani-masala-powder/) is an alternative if you want to make Biryani powder at home. 

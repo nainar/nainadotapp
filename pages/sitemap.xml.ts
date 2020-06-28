@@ -3,7 +3,7 @@ import { getSortedPostsData } from '../lib/posts'
 import { parseISO, format } from 'date-fns'
 
 const blogPostsXml = (blogPostsData) => {
-  let latestPost = blogPostsData[0].date;
+  let latestPost = parseISO(blogPostsData[0].date);
   let postsXml = "";
   blogPostsData.map(post => {
     const postDate = parseISO(post.date);

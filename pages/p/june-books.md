@@ -11,7 +11,7 @@ Like others in the US and worldwide, I have come to terms with the fact that bei
 
 Yes, I too like many others have reached that stage of shelter-in-place where I can stomach reading books about widespread plagues. 
 
-_[POTENTIAL SPOILER ALERT]_
+_**POTENTIAL SPOILER ALERT**_
 
 Ling Ma takes the humdrum that has become our lives where we repeat the same routine day in and day out and turned it into a plague. As a migrant your heart aches for Candace. Her descriptions of the various characters made me laugh, I could imagine any of the tech bros I have encountered playing the role of the threatened alpha male that is Bob, the IT guy. 
 
