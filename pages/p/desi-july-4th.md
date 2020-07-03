@@ -1,5 +1,5 @@
 ---
-title: "A very desi July 4th BBQ"
+title: "An early desi July 4th BBQ"
 date: "2020-07-02"
 ---
 
