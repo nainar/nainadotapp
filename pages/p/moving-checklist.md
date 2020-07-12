@@ -1,6 +1,7 @@
 ---
 title: "My moving checklist"
 date: "2020-07-03"
+tags: "planning"
 ---
 
 It has now been roughly 4 months since I moved into my current place and I still vividly remember being stressed out the entire time. I was worried that I had forgotten something. That I wouldn't have internet when I moved or that my mail would still be getting delivered to my old address. So for future reference here are all the things I needed to check of my move list. 

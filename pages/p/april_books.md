@@ -1,6 +1,7 @@
 ---
 title: "Books I read in April, 2020"
 date: "2020-05-02"
+tags: "books, monthly"
 ---
 
 ## The books and my thoughts

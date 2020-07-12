@@ -1,6 +1,7 @@
 ---
 title: "An early desi July 4th BBQ"
 date: "2020-07-02"
+tags: "planning, food, entertainment"
 ---
 
 Guess how I started off my Independence long weekend? With a barbecue! Of course! Since this was the first time that I barbecued food, I thought I would write down everything I found useful, for the sake of posterity. 

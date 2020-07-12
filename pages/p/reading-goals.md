@@ -1,6 +1,7 @@
 ---
 title: "My reading goals"
 date: "2020-05-25"
+tags: "blog"
 ---
 
 I make no attempt to hide my love for books, it's been a part of me since I finished reading all the books in my school's small library and had my brother borrow books from his library for me to read. I will never know what his librarian thought of his love for Nancy Drew and Famous Five. 🤷🏾‍♀️

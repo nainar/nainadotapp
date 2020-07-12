@@ -1,6 +1,7 @@
 ---
 title: "My meal prep planner"
 date: "2020-05-16"
+tags: "planning, food"
 ---
 
 It should come as no shock to anyone that I have chosen to use this time in quarantine to organize my life!
