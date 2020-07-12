@@ -14,6 +14,14 @@ function TalksPage() {
         </Head>
       <main>
         <div className="container">
+            <amp-youtube data-videoid="2QWO78U43FU" layout="responsive" width="480" height="270" ></amp-youtube>
+            <div className="text">
+                <h2>AMP at your service</h2>
+                <p>
+                Naina and Sebastian discuss how AMP makes web development less painful and why it's time to move away from paired AMP.
+                </p>
+            </div>
+
             <amp-youtube data-videoid="UyPdVFbZ3gs" layout="responsive" width="480" height="270" ></amp-youtube>
             <div className="text">
                 <h2>AMP: A user driven component roadmap</h2>
