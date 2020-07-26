@@ -85,7 +85,7 @@ function TalksPage() {
         position:relative;
         left: 0;
         transform: translate(0%, 0%);
-        top: 6em;
+        top: 10em;
         padding-left:10px;
         padding-bottom: 100px;
         width: 95%;
@@ -107,12 +107,12 @@ function TalksPage() {
             grid-gap: 10px;
         }
         main {
-            position: fixed;
-            margin: 0;
-            top: calc(50%);
+            position: relative;
+            top: 5.5em;
             left: 50%;
-            transform: translate(-50%, -50%);
+            transform: translate(0%, 0%);
             padding-left:0px;
+            padding-bottom: 100px;
         }
     }
   `}</style>
