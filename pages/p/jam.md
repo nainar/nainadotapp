@@ -9,6 +9,8 @@ A framework to make jam
 
 Makes: 1.5 cups of jam
 
+Adapted from a [Bon Appetit recipe](https://www.bonappetit.com/recipe/strawberry-jam)
+
 ## Ingredients
 1. 1 pound fresh (or frozen, thawed) fruit. Ideas:
   - Berries
