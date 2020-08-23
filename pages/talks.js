@@ -14,6 +14,26 @@ function TalksPage() {
         </Head>
       <main>
         <div className="container">
+            <amp-youtube data-videoid="h8bQA1X6RRc" layout="responsive" width="480" height="270" ></amp-youtube>
+            <div className="text">
+            <h2>Deep dive into AMP and Core Web Vitals</h2>
+                <p>
+                    In this session, Naina Raisinghani - Product Manager on the AMP Project - and Souvik Das Gupta - co-founder of Miranj, discuss how developers can use AMP on their websites.
+                </p>
+            </div>
+
+            <amp-youtube data-videoid="K-JA2VOSVEI" layout="responsive" width="480" height="270" ></amp-youtube>
+            <div className="text">
+                <h2>Introduction to AMP and Core Web Vitals</h2>
+                <p>
+                Naina Raisinghani, Product Manager on the AMP Project explained:
+                    1. A quick introduction to AMP
+                    2. AMP formats for websites, email, stories, ads.
+                    3. Introduction to page experience announcement and Core Web Vitals
+                    4. How AMP makes it easier to create pages that do well on Core Web Vitals
+                </p>
+            </div>
+
             <amp-youtube data-videoid="2QWO78U43FU" layout="responsive" width="480" height="270" ></amp-youtube>
             <div className="text">
                 <h2>AMP at your service</h2>
