@@ -149,7 +149,7 @@ function TalksPage() {
         position:relative;
         left: 1em;
         transform: translate(0%, 0%);
-        top: 5.5em;
+        top: 6.5em;
         width: 95%;
       }  
 
