@@ -1,5 +1,5 @@
 ---
-title: "Recipe: Onion Roti"
+title: "Onion Roti"
 date: "2020-05-23"
 tags: "food"
 ---

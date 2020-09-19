@@ -1,5 +1,5 @@
 ---
-title: "Recipe: Peri peri chicken burgers"
+title: "Peri peri chicken burgers"
 date: "2020-09-19"
 tags: "food"
 ---

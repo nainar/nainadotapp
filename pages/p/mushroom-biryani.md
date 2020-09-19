@@ -1,5 +1,5 @@
 ---
-title: "Recipe: Mushroom Biryani"
+title: "Mushroom Biryani"
 date: "2020-05-22"
 tags: "food"
 ---
