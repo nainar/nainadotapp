@@ -14,7 +14,7 @@ I am using [this guide by WebMD](https://www.webmd.com/lung/coronavirus-transmis
 
 ## Outfit
 - Wear a full sleeved sweatshirt and track suit bottoms with pockets.
-- Wear an N95 mask with a cloth mask over it for the entire trip. 
+- Wear an N95 mask for the entire trip. 
 - Wear disposable gloves for the entire trip. Make sure these gloves seamlessly fit into sleeves of my sweatshirt so there is no visible skin.
 - Wear socks regardless of the type of shoes I am wearing. I have TSA PreCheck so I shouldn't need to take my shoes off luckily. This also makes sure that no skin is left exposed.
 - Tie my hair back so I don't have to fiddle with my hair or unnecessarily touch my face during the trip. 
