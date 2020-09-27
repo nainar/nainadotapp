@@ -25,5 +25,4 @@ And here are some instructions on how to customize the template:
   - Yoga inspiration - [Yoga with Adrienne](https://www.youtube.com/user/yogawithadriene)
   - Barre inspiration - [Psycle London](https://www.instagram.com/psyclelondon/channel/)
 
-
 Let me know if you find it useful, or if you customize it! 
