@@ -11,24 +11,24 @@ Serves: 4
 
 ## Ingredients
 1. Crust:
-  - 2 cups/250 grams all-purpose flour, more as needed
-  - 1 teaspoon kosher salt
-  - ¼ teaspoon sugar
-  - 1 cup/225 grams unsalted butter (2 sticks), cold, cut in 1/2-inch cubes
-  - 1/2 cup ice water, or as needed
+    - 2 cups/250 grams all-purpose flour, more as needed
+    - 1 teaspoon kosher salt
+    - ¼ teaspoon sugar
+    - 1 cup/225 grams unsalted butter (2 sticks), cold, cut in 1/2-inch cubes
+    - 1/2 cup ice water, or as needed
 1. Filling:
-  - 4 tablespoons unsalted butter
-  - 1 tablespoon extra-virgin olive oil
-  - 250g mushrooms
-  - 250g spinach
-  - 250g thinly sliced onions
-  - 1 ½ tablespoons all-purpose flour
-  - 2 large eggs
-  - ⅔ cup heavy cream
-  - 1 teaspoon kosher salt
-  - ¼ teaspoon freshly ground black pepper
-  - ¼ teaspoon freshly grated nutmeg
-  - 2 ounces Gruyère/soft cheese, shredded (about 1/2 cup)
+    - 4 tablespoons unsalted butter
+    - 1 tablespoon extra-virgin olive oil
+    - 250g mushrooms
+    - 250g spinach
+    - 250g thinly sliced onions
+    - 1 ½ tablespoons all-purpose flour
+    - 2 large eggs
+    - ⅔ cup heavy cream
+    - 1 teaspoon kosher salt
+    - ¼ teaspoon freshly ground black pepper
+    - ¼ teaspoon freshly grated nutmeg
+    - 2 ounces Gruyère/soft cheese, shredded (about 1/2 cup)
 
 
 ## Directions
