@@ -34,6 +34,7 @@ export default function Post({ postData }) {
                 }
               },
               "datePublished": "${format(parseISO(postData.date), 'LLLL d, yyyy')}",
+              "dateModified": "${format(parseISO(postData.date), 'LLLL d, yyyy')}",
               "inLanguage": "English"
             }
           `}}/>
