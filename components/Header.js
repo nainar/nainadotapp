@@ -92,6 +92,27 @@ function Header() {
         `}</style> 
       <Head>
         <title>Naina Raisinghani</title>
+        <script type="application/ld+json"dangerouslySetInnerHTML={{__html: `
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "Naina Raisinghani",
+              "url": "https://naina.app",
+              "image": "https://naina.app",
+              "sameAs": [
+                "https://twitter.com/nainar92",
+                "https://www.instagram.com/nainar92/",
+                "https://www.linkedin.com/in/nainaraisinghani/",
+                "https://naina.app",
+                "https://github.com/nainar"
+              ],
+              "jobTitle": "Product Manager",
+              "worksFor": {
+                "@type": "Organization",
+                "name": "Google"
+              }  
+            }
+          `}}/>
         <script async key="amp-fx-collection" custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js" />
       </Head>
       <header amp-fx="float-in-top">

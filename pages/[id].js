@@ -2,6 +2,7 @@ import Layout from '../components/MyLayout';
 import Head from 'next/head';
 import { getAllPostIds, getPostData } from '../lib/posts'
 import Date from '../components/Date'
+import { parseISO, format } from 'date-fns'
 
 export const config = { amp: true };
 
@@ -9,6 +10,33 @@ export default function Post({ postData }) {
   return (
     <Layout>
         <Head>
+          <script type="application/ld+json"dangerouslySetInnerHTML={{__html: `
+            {
+              "@context": "https://schema.org/",
+              "@type": "BlogPosting",
+              "url": "https://naina.app/",
+              "mainEntityOfPage": { 
+                "@type": "WebPage", 
+                "@id": "https://naina.app/" 
+              },
+              "headline": "${postData.title}",
+              "image": "/naina_image.jpg", 
+              "author": { 
+                "@type": "Person", 
+                "name": "Naina Raisinghani" 
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Naina Raisinghani",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "/naina_image.jpg"
+                }
+              },
+              "datePublished": "${format(parseISO(postData.date), 'LLLL d, yyyy')}",
+              "inLanguage": "English"
+            }
+          `}}/>
         <title>{postData.title}</title>
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💩</text></svg>" />
         </Head>
@@ -59,8 +87,7 @@ export default function Post({ postData }) {
           width: 100%;
         }
       }
-    `}
-    </style>
+    `}</style>
     </Layout>
   );
 }
