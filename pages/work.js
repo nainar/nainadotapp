@@ -12,13 +12,13 @@ function TalksPage() {
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💩</text></svg>" />
         </Head>
       <main>
-      <div className="container links">
-            <Link href="https://www.linkedin.com/in/nainaraisinghani/">
-              LinkedIn
-            </Link>
-            <Link href="https://docs.google.com/document/d/e/2PACX-1vTERW4qukD_AcMFYSEhm3oe45xClMsQFcdJhD57RnheQArwDrCN9zfUV_xotT80UiQEJjj59dyFJHiD/pub">
-              Resume
-            </Link>
+        <div className="container1 links">
+          <div><Link href="https://www.linkedin.com/in/nainaraisinghani/">
+            LinkedIn
+          </Link></div>
+          <div><Link href="https://docs.google.com/document/d/e/2PACX-1vTERW4qukD_AcMFYSEhm3oe45xClMsQFcdJhD57RnheQArwDrCN9zfUV_xotT80UiQEJjj59dyFJHiD/pub">
+            Resume
+          </Link></div>
         </div>
         <h1>Work Experience</h1>
         <div className="container">
@@ -154,7 +154,7 @@ function TalksPage() {
       }  
 
     @media all and (min-width: 768px) and (max-width:1500px) {
-        .container {
+        .container, .container1 {
             display: grid;
             grid-template-columns: 480px 480px;
             grid-gap: 10px;
@@ -167,12 +167,18 @@ function TalksPage() {
             grid-template-rows: 270px;
             grid-gap: 10px;
         }
-        main {
-            position: fixed;
+        .container1 {
+          display: grid;
+          grid-template-columns: 480px 480px;
+          grid-template-rows: 20px;
+          grid-gap: 10px;
+      }
+      main {
+            position: relative;
             margin: 0;
             top: calc(50%);
             left: 50%;
-            transform: translate(-50%, -50%);
+            transform: translate(-50%, 5%);
         }
     }
   

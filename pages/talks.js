@@ -14,6 +14,22 @@ function TalksPage() {
         </Head>
       <main>
         <div className="container">
+        <amp-youtube data-videoid="gDifXr5XsSg" layout="responsive" width="480" height="270" ></amp-youtube>
+            <div className="text">
+            <h2>AMP as a service: Productive web development</h2>
+                <p>
+                Building and maintaining a great page experience for your website is challenging. Learn how AMP takes the pain out of web development by providing out-of-the-box solutions that help developers cut costs and save time. 
+                </p>
+            </div>
+
+            <amp-youtube data-videoid="ScwE5_LQ_ok" layout="responsive" width="480" height="270" ></amp-youtube>
+            <div className="text">
+            <h2>What's Next In AMP?</h2>
+                <p>
+                The AMP Project has seen amazing growth since it was first introduced 5 years ago. Learn about the progress being made on exciting new projects like Bento AMP, as well as learn more about the key focus areas for AMP websites in 2020 and beyond. 
+                </p>
+            </div>
+
             <amp-youtube data-videoid="h8bQA1X6RRc" layout="responsive" width="480" height="270" ></amp-youtube>
             <div className="text">
             <h2>Deep dive into AMP and Core Web Vitals</h2>
