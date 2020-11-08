@@ -1,7 +1,7 @@
 ---
 title: "My first few stops post quarantine"
 date: "2020-05-17"
-tags: "blog"
+tags: "planning"
 ---
 
 Everyone has this list, the things they are looking forward to when shelter-in-place, social distancing policies are relaxed. For those who were curious, here are mine (in no order):
