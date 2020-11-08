@@ -74,12 +74,12 @@ function HomePage({allPostsData}) {
         color:#d8156e;
     }
     main {
-      position: fixed;
+      position: relative;
       margin: 0;
       color: #333333;
-      top: calc(50% - 16px);
+      top: 5.5em;
       left: 50%;
-      transform: translate(-50%, -50%);
+      transform: translate(50%, 0%);
       padding-left:10px;
       width: 95%;
       padding-bottom: 0px;

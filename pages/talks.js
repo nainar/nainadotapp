@@ -145,7 +145,7 @@ function TalksPage() {
         main {
             position: relative;
             top: 5.5em;
-            left: 50%;
+            left: 25%;
             transform: translate(0%, 0%);
             padding-left:0px;
             padding-bottom: 100px;
