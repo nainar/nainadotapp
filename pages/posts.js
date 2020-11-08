@@ -79,7 +79,7 @@ function HomePage({allPostsData}) {
       color: #333333;
       top: 5.5em;
       left: 50%;
-      transform: translate(50%, 0%);
+      transform: translate(-50%, 0%);
       padding-left:10px;
       width: 95%;
       padding-bottom: 0px;
