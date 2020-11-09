@@ -1,7 +1,7 @@
 ---
 title: "My favourite quarantine purchases"
 date: "2020-07-31"
-tags: "planning"
+tags: "thoughts"
 ---
 
 What none of you shopped during quarantine? I moved to the peninsula of the Bay Area 2 days before Bay Area announced shelter in place. In the wake of all the changes that shelter in place brought here are my top purchases since I moved:

@@ -1,7 +1,7 @@
 ---
 title: "Sustainable practices for the rest of 2020"
 date: "2020-10-17"
-tags: "books"
+tags: "books, thoughts"
 ---
 
 A few months ago, I talked about the sustainable practices I was committing to in 2020, however I missed out a large part of my daily life - reading. I read roughly 40 books a year and buying physical 40 physical books a year isn't sustainable for me in terms of the space they occupy in my expensive Bay area apartment or in terms of the paper required. So here is how I read sustainably, please note that this is what works for me:

@@ -21,6 +21,7 @@ My operating philosophy when thinking about resolutions in a new year, is to set
 - Continue cooking and baking in 2021 with an emphasis on learning new recipes. 
 
 ### Career
+- Aim to work no more than 9 hours a day. I am currently working from 9 am to 7 pm. This needs to change. 
 - Start taking active steps towards working in the health industry. For example, take basic biology courses. 
 
 ### Mind and Health

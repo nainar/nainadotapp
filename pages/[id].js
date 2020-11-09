@@ -60,6 +60,10 @@ export default function Post({ postData }) {
       h1, h2, h3, h4 {
         color: #d8156e;
       }
+      blockquote {
+        background-color: #80808029;
+        padding: 5px;
+      }
       a {
         text-decoration: none,
         color: 'purple',

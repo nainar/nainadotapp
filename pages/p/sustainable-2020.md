@@ -1,7 +1,7 @@
 ---
 title: "Sustainable practices for the rest of 2020"
 date: "2020-06-26"
-tags: "planning"
+tags: "planning, thoughts"
 ---
 
 I've made no secret of my want to be more conscious about how my lifestyle affects the environment. While I understand that a mere 100 companies are the ones responsible for around 75% of the greenhouse emissions, that doesn't absolve me from my contributions.
