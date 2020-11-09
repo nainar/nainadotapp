@@ -11,6 +11,7 @@ I am nothing if not an eager planner. With my lease ending in a mere 4 months I 
 ## Goals
 - Have a room that I can convert in a dedicated office and workout space. 
 - More outdoor space so that I don't feel "stuck at home"
+- Items that are used in a certain space should be stored in that space, for example kitchen appliances should be stored in the kitchen. 
 
 ## Requirements
 
