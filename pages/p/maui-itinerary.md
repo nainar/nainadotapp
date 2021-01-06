@@ -72,7 +72,7 @@ I ended up staying at the [Sheraton Maui](https://www.marriott.com/hotels/travel
   - [Wow wow Hawaiian Lemonade*](https://wowwowhawaiianlemonade.com/) Fresh lemonade! Given the heat I was excited to get some lemonade, however they were out when I visited during lunch time. So visit early!
   - [Paia bowls](https://www.paiabowls.com/) While the acai was good, it was not at all comparable to the fresh acai I had in Brazil, since it was made with frozen acai berries. While, it is a good stop on the way to Road to Hana, I wouldn't recommend going out of your way to get this. 
   - Aunty Sandy’s Banana bread: A famous place to get banana bread! I froze mine to bring it home! And just had some, it's delicious and has a tender crumb - I would definitely recommend trying it!
-  - [Hana farms](https://www.hanafarms.com/) A great place to stop for lunch! It has something for everyone! Vegetarians, carnivores! I would recommend getting their Taco plate and trying their banana bread! It looked incredibly good with different flavours of banana bread, which Aunty Sandy's didnt'!
+  - [Hana Farms](https://www.hanafarms.com/) A great place to stop for lunch! It has something for everyone! Vegetarians, carnivores! I would recommend getting their Taco plate (their turmeric rice was VERY good) and trying their banana bread! It looked incredibly good with different flavours of banana bread, which Aunty Sandy's didnt'!
 Thai food:
   - [Thai Chef Restaurant](https://thaichefmaui.com/): This place was close to my hotel and I was missing thai food, so I am glad I visited! It was above average thai food, but a great place to visit for some warm food. 
   - [Tiki Tiki Thai Cuisine](https://www.tikithaimaui.com/): I loved it here, the tables had shields between them and they had... _drumroll_ ... Khao Soi! I would definitely recommend this!
@@ -95,6 +95,7 @@ Seafood:
   - Fabiani’s Bakery: Wouldn't recommend this, I got their red velvet cake which is supposed to be amazing. However, I was disappointed.
   - Lineage Maui: I was excited to go to a Top Chef owned restaurant, however since the Executive Chef has changed the menu has as well. The place doesn't serve Hawaiian food now and has instead transitioned to an Asian menu. 
 
-## Alcohol
+## Drinks
+- Olowalu Juice Stand: A fresh juice stand on your way out from Lahaina - I would recommend trying both the fresh pineapple juice and their coconut water. You can also buy fresh fruit from here. 
 - [Maui Brewing Company](https://mauibrewingco.com/): The beer here is brewed locally and they have great snacks as well! I would recommend the Coconut Hiwa and the Pineapple Mana!
 - [Maui Wine](https://mauiwine.com/): Where else can you get pineapple wine!? Nowhere! (I am sure you can!) I would definitely recommend making the trip over to try the flight of their pineapple wines!
