@@ -38,6 +38,7 @@ function HomePage() {
               <li>I'm Pakistani 🇵🇰.</li>
               <li>I live in the Bay Area in California.</li>
               <li>I love reading! Ask me about my love for <Link style={linkStyle} href="https://www.goodreads.com/book/show/7201.As_the_Crow_Flies"><a style={linkStyle}>As The Crow Flies by Jeffrey Archer</a></Link></li>
+              <li>I love reading so much I have a <Link style={linkStyle} href="https://anchor.fm/naina-raisinghani"><a style={linkStyle}>nano bookcast</a></Link> about it! :D</li>
               <li>I spend my weekends currently in self isolation learning how to bake, cook and play the keyboard!</li>
               <li>My sourdough starter is called Dough-lly Parton.</li>
             </ul>
