@@ -6,7 +6,7 @@ tags: "books, #nanobookcast"
 
 ## Episode 3
 
-I started a podcast, just in case you missed the news!
+I started a podcast, just in case you missed the news! Yes, I will keep harping on this point!
 
 It's called "The Nano Bookcast" and you can find the public page on Anchor: https://anchor.fm/naina-raisinghani. 
 
