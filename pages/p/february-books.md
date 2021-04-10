@@ -8,7 +8,7 @@ tags: "books, monthly"
 
 Books, books, books, books. They are all I think about now that I have the podcast. What podcast, you say? Oh just [The Nano Bookcast](https://anchor.fm/naina-raisinghani) - a small podcast about books! 
 
-Enough about that! Keeping with my monthly tradition, here are my reviews on the books I have "read" in January!
+Enough about that! Keeping with my monthly tradition, here are my reviews on the books I have "read" in February!
 
 **[Together by Dr. Vivek Murthy](https://www.goodreads.com/book/show/43309159-together)**
 
