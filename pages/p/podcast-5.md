@@ -1,5 +1,5 @@
 ---
-title: "Episode 5 - 2021: Hot book summer
+title: "Episode 5 - 2021: Hot book summer"
 date: "2021-05-30"
 tags: "books, #nanobookcast"
 ---
